@@ -1,0 +1,27 @@
+.bg1{
+	background-color: dodgerblue;
+}
+h4,h2{
+	color: black;
+}
+.container-fluid{
+	padding: 1em 1em;
+} 
+ 
+ .bg2 {
+	background-color: pink;
+	color: white;
+}
+
+.bg3 {
+	background-color:slateblue ;
+}
+
+.bg4 {
+	background-color: tomato;
+	color: black;
+}
+
+h5 {
+	color: black;
+}
